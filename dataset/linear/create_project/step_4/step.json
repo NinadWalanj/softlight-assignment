@@ -1,0 +1,15 @@
+{
+  "step_id": 4,
+  "intent": "Click on the 'Create project' button to finalize creation",
+  "expected_state": "New project named 'Demo Project' appears in the projects list",
+  "executor_status": "success",
+  "verified": true,
+  "executor_meta": {
+    "action": "click",
+    "used_text": "Create project",
+    "tag": "button",
+    "label": "Create project",
+    "aria_label": null,
+    "error": null
+  }
+}

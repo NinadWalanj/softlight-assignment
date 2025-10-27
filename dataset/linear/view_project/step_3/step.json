@@ -1,0 +1,15 @@
+{
+  "step_id": 3,
+  "intent": "Click on the button with aria-label='Open command menu'",
+  "expected_state": "Command menu is displayed",
+  "executor_status": "success",
+  "verified": false,
+  "executor_meta": {
+    "action": "open",
+    "used_text": "Open command menu",
+    "tag": "button",
+    "label": "Open command menu",
+    "aria_label": "Open command menu",
+    "error": null
+  }
+}

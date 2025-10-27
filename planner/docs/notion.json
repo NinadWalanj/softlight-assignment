@@ -1,0 +1,8 @@
+[
+  {
+    "text": "To create a new page, click on the button with aria-label=\"New page\". Fill in the page name field with 'Demo Page'"
+  },
+  {
+    "text": "To delete a project, click on the \"Projects\" button. From a view containing multiple projects, you can right click on any project and select Delete from the bottom of the menu."
+  }
+]

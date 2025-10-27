@@ -1,0 +1,15 @@
+{
+  "step_id": 2,
+  "intent": "Click on the element with aria-label='Select project'",
+  "expected_state": "'Actions' button is displayed",
+  "executor_status": "success",
+  "verified": false,
+  "executor_meta": {
+    "action": "click",
+    "used_text": "Change project target date",
+    "tag": "div",
+    "label": "Select project",
+    "aria_label": "Select project",
+    "error": null
+  }
+}

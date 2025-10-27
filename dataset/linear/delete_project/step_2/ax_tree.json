@@ -1,0 +1,2473 @@
+{
+  "role": "WebArea",
+  "name": "Projects",
+  "children": [
+    {
+      "role": "none",
+      "name": "",
+      "children": [
+        {
+          "role": "generic",
+          "name": "",
+          "children": [
+            {
+              "role": "generic",
+              "name": "",
+              "children": [
+                {
+                  "role": "Audio",
+                  "name": "Unable to play media.",
+                  "disabled": true,
+                  "children": [
+                    {
+                      "role": "none",
+                      "name": "",
+                      "children": [
+                        {
+                          "role": "none",
+                          "name": "",
+                          "children": [
+                            {
+                              "role": "none",
+                              "name": ""
+                            }
+                          ]
+                        },
+                        {
+                          "role": "none",
+                          "name": "",
+                          "children": [
+                            {
+                              "role": "none",
+                              "name": "",
+                              "children": [
+                                {
+                                  "role": "button",
+                                  "name": "play",
+                                  "disabled": true,
+                                  "children": [
+                                    {
+                                      "role": "generic",
+                                      "name": ""
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "slider",
+                                  "name": "audio time scrubber",
+                                  "description": "total time: 0:00",
+                                  "valuetext": "elapsed time: 0:00",
+                                  "disabled": true,
+                                  "valuemin": 0,
+                                  "valuemax": 100,
+                                  "orientation": "horizontal",
+                                  "value": 0
+                                },
+                                {
+                                  "role": "generic",
+                                  "name": "",
+                                  "children": [
+                                    {
+                                      "role": "generic",
+                                      "name": ""
+                                    },
+                                    {
+                                      "role": "none",
+                                      "name": ""
+                                    },
+                                    {
+                                      "role": "button",
+                                      "name": "mute",
+                                      "disabled": true
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "none",
+                                  "name": "",
+                                  "children": [
+                                    {
+                                      "role": "none",
+                                      "name": ""
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "button",
+                                  "name": "show more media controls",
+                                  "description": "more options",
+                                  "haspopup": "menu",
+                                  "children": [
+                                    {
+                                      "role": "generic",
+                                      "name": ""
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "role": "none",
+                          "name": ""
+                        },
+                        {
+                          "role": "none",
+                          "name": ""
+                        },
+                        {
+                          "role": "none",
+                          "name": ""
+                        },
+                        {
+                          "role": "none",
+                          "name": ""
+                        },
+                        {
+                          "role": "none",
+                          "name": "",
+                          "children": [
+                            {
+                              "role": "none",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": ""
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "link",
+                  "name": "Skip to content",
+                  "children": [
+                    {
+                      "role": "text",
+                      "name": "Skip to content",
+                      "children": [
+                        {
+                          "role": "InlineTextBox",
+                          "name": "Skip "
+                        },
+                        {
+                          "role": "InlineTextBox",
+                          "name": "to "
+                        },
+                        {
+                          "role": "InlineTextBox",
+                          "name": "content"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "generic",
+                  "name": "",
+                  "children": [
+                    {
+                      "role": "none",
+                      "name": "",
+                      "children": [
+                        {
+                          "role": "none",
+                          "name": ""
+                        },
+                        {
+                          "role": "generic",
+                          "name": "",
+                          "children": [
+                            {
+                              "role": "navigation",
+                              "name": "",
+                              "children": [
+                                {
+                                  "role": "none",
+                                  "name": "",
+                                  "children": [
+                                    {
+                                      "role": "none",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "generic",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "button",
+                                              "name": "Test Workspace Menu",
+                                              "haspopup": "menu",
+                                              "children": [
+                                                {
+                                                  "role": "generic",
+                                                  "name": ""
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "text",
+                                                      "name": "Test",
+                                                      "children": [
+                                                        {
+                                                          "role": "InlineTextBox",
+                                                          "name": "Test"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "role": "none",
+                                          "name": ""
+                                        },
+                                        {
+                                          "role": "none",
+                                          "name": ""
+                                        },
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "button",
+                                                  "name": "Search workspace"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "role": "generic",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "button",
+                                                      "name": "Create new issue"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "generic",
+                                  "name": "",
+                                  "children": [
+                                    {
+                                      "role": "generic",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "button",
+                                                      "name": "Inbox",
+                                                      "roledescription": "sortable",
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "generic",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "generic",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "link",
+                                                                              "name": "Inbox",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "none",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "none",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "none",
+                                                                                          "name": "",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "text",
+                                                                                              "name": "Inbox",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "InlineTextBox",
+                                                                                                  "name": "Inbox"
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "button",
+                                                      "name": "My issues",
+                                                      "roledescription": "sortable",
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "generic",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "generic",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "link",
+                                                                              "name": "My issues",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "none",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "text",
+                                                                                      "name": "My issues",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "InlineTextBox",
+                                                                                          "name": "My issues"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "button",
+                                                      "name": "",
+                                                      "roledescription": "sortable",
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": ""
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": ""
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": ""
+                                                },
+                                                {
+                                                  "role": "status",
+                                                  "name": ""
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "button",
+                                                      "name": "Workspace",
+                                                      "expanded": true,
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "text",
+                                                              "name": "Workspace",
+                                                              "children": [
+                                                                {
+                                                                  "role": "InlineTextBox",
+                                                                  "name": "Workspace"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "generic",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "button",
+                                                                  "name": "Projects",
+                                                                  "roledescription": "sortable",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "generic",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "generic",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "generic",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "link",
+                                                                                          "name": "Projects",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "none",
+                                                                                              "name": "",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "text",
+                                                                                                  "name": "Projects",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "role": "InlineTextBox",
+                                                                                                      "name": "Projects"
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "button",
+                                                                  "name": "Views",
+                                                                  "roledescription": "sortable",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "generic",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "none",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "generic",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "link",
+                                                                                          "name": "Views",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "none",
+                                                                                              "name": "",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "text",
+                                                                                                  "name": "Views",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "role": "InlineTextBox",
+                                                                                                      "name": "Views"
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "button",
+                                                                  "name": "",
+                                                                  "roledescription": "sortable",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": ""
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "button",
+                                                                  "name": "",
+                                                                  "roledescription": "sortable",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": ""
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "role": "none",
+                                                              "name": ""
+                                                            },
+                                                            {
+                                                              "role": "status",
+                                                              "name": ""
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "generic",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "button",
+                                                                          "name": "Show more workspace links",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "text",
+                                                                                  "name": "More",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "InlineTextBox",
+                                                                                      "name": "More"
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "role": "none",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "button",
+                                                      "name": "Your teams",
+                                                      "expanded": true,
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "text",
+                                                              "name": "Your teams",
+                                                              "children": [
+                                                                {
+                                                                  "role": "InlineTextBox",
+                                                                  "name": "Your teams"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "generic",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "generic",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "list",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "button",
+                                                                      "name": "Test Issues Projects Views",
+                                                                      "roledescription": "sortable",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "generic",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "generic",
+                                                                              "name": "Test",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "button",
+                                                                                  "name": "Test Team menu",
+                                                                                  "expanded": true,
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "generic",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "none",
+                                                                                          "name": "",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "none",
+                                                                                              "name": "",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "none",
+                                                                                                  "name": ""
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "role": "none",
+                                                                                              "name": "",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "text",
+                                                                                                  "name": "Test",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "role": "InlineTextBox",
+                                                                                                      "name": "Test"
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "role": "none",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "none",
+                                                                                          "name": "",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "generic",
+                                                                                              "name": "Team menu"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "generic",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "none",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "none",
+                                                                                          "name": "",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "generic",
+                                                                                              "name": "",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "none",
+                                                                                                  "name": "",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "role": "generic",
+                                                                                                      "name": "",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "role": "link",
+                                                                                                          "name": "Issues",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "role": "none",
+                                                                                                              "name": "",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "role": "text",
+                                                                                                                  "name": "Issues",
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "role": "InlineTextBox",
+                                                                                                                      "name": "Issues"
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "role": "none",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "none",
+                                                                                          "name": "",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "generic",
+                                                                                              "name": "",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "none",
+                                                                                                  "name": "",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "role": "generic",
+                                                                                                      "name": "",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "role": "link",
+                                                                                                          "name": "Projects",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "role": "none",
+                                                                                                              "name": "",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "role": "text",
+                                                                                                                  "name": "Projects",
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "role": "InlineTextBox",
+                                                                                                                      "name": "Projects"
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "role": "none",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "none",
+                                                                                          "name": "",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "generic",
+                                                                                              "name": "",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "generic",
+                                                                                                  "name": "",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "role": "link",
+                                                                                                      "name": "Views",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "role": "none",
+                                                                                                          "name": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "role": "text",
+                                                                                                              "name": "Views",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "role": "InlineTextBox",
+                                                                                                                  "name": "Views"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        },
+                                                                        {
+                                                                          "role": "generic",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "list",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "status",
+                                                                                      "name": ""
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": ""
+                                                                    },
+                                                                    {
+                                                                      "role": "status",
+                                                                      "name": ""
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "button",
+                                                      "name": "Try",
+                                                      "expanded": true,
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "text",
+                                                              "name": "Try",
+                                                              "children": [
+                                                                {
+                                                                  "role": "InlineTextBox",
+                                                                  "name": "Try"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "generic",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "generic",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "none",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "generic",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "generic",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "link",
+                                                                                  "name": "Import issues",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "none",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "text",
+                                                                                          "name": "Import issues",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "InlineTextBox",
+                                                                                              "name": "Import issues"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "role": "generic",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "none",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "button",
+                                                                      "name": "Dismiss"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "generic",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "generic",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "generic",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "generic",
+                                                                      "name": "Invite to Test…",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "text",
+                                                                          "name": "Invite people",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "InlineTextBox",
+                                                                              "name": "Invite people"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "role": "generic",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "none",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "button",
+                                                                      "name": "Dismiss"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "generic",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "none",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "generic",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "generic",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "link",
+                                                                                  "name": "Link GitHub",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "none",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "text",
+                                                                                          "name": "Link GitHub",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "InlineTextBox",
+                                                                                              "name": "Link GitHub"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "role": "generic",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "none",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "button",
+                                                                      "name": "Dismiss"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "role": "generic",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": ""
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "generic",
+                                  "name": ""
+                                }
+                              ]
+                            },
+                            {
+                              "role": "generic",
+                              "name": "",
+                              "children": [
+                                {
+                                  "role": "generic",
+                                  "name": "",
+                                  "children": [
+                                    {
+                                      "role": "generic",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "button",
+                                          "name": "Open Help menu",
+                                          "haspopup": "menu"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "role": "generic",
+                      "name": "",
+                      "children": [
+                        {
+                          "role": "main",
+                          "name": "",
+                          "children": [
+                            {
+                              "role": "generic",
+                              "name": ""
+                            },
+                            {
+                              "role": "none",
+                              "name": "",
+                              "children": [
+                                {
+                                  "role": "generic",
+                                  "name": "",
+                                  "children": [
+                                    {
+                                      "role": "sectionheader",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "heading",
+                                                  "name": "Projects",
+                                                  "level": 2,
+                                                  "children": [
+                                                    {
+                                                      "role": "text",
+                                                      "name": "Projects",
+                                                      "children": [
+                                                        {
+                                                          "role": "InlineTextBox",
+                                                          "name": "Projects"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "generic",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "generic",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "link",
+                                                                  "name": "All projects",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "generic",
+                                                                      "name": ""
+                                                                    },
+                                                                    {
+                                                                      "role": "generic",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "text",
+                                                                          "name": "All projects",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "InlineTextBox",
+                                                                              "name": "All projects"
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "generic",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "none",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "generic",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "button",
+                                                              "name": "Add new view",
+                                                              "children": [
+                                                                {
+                                                                  "role": "text",
+                                                                  "name": "New view",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "InlineTextBox",
+                                                                      "name": "New view"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "status",
+                                                  "name": ""
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "none",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "button",
+                                                          "name": "Copy page URL"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "role": "none",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "button",
+                                                          "name": "Add project",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "text",
+                                                                  "name": "Add project",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "InlineTextBox",
+                                                                      "name": "Add project"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "role": "none",
+                                                      "name": ""
+                                                    },
+                                                    {
+                                                      "role": "none",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "button",
+                                                          "name": "Close sidebar"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "role": "none",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "generic",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "button",
+                                                          "name": "Add filter",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "none",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "text",
+                                                                      "name": "Filter",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "InlineTextBox",
+                                                                          "name": "Filter"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": ""
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "button",
+                                                      "name": "Display options",
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "text",
+                                                                  "name": "Display",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "InlineTextBox",
+                                                                      "name": "Display"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "role": "generic",
+                                  "name": "",
+                                  "children": [
+                                    {
+                                      "role": "generic",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "none",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "generic",
+                                                  "name": ""
+                                                },
+                                                {
+                                                  "role": "generic",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "none",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "generic",
+                                                          "name": ""
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "none",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "button",
+                                                                      "name": "Order by Name",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "text",
+                                                                                  "name": "Name",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "InlineTextBox",
+                                                                                      "name": "Name"
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "button",
+                                                                  "name": "Order by Health",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "text",
+                                                                              "name": "Health",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "InlineTextBox",
+                                                                                  "name": "Health"
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "button",
+                                                                  "name": "Order by Priority",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "text",
+                                                                              "name": "Priority",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "InlineTextBox",
+                                                                                  "name": "Priority"
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "text",
+                                                                  "name": "Lead",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "InlineTextBox",
+                                                                      "name": "Lead"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "button",
+                                                                  "name": "Order by Target date",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "text",
+                                                                              "name": "Target date",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "InlineTextBox",
+                                                                                  "name": "Target date"
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "none",
+                                                              "name": "",
+                                                              "children": [
+                                                                {
+                                                                  "role": "button",
+                                                                  "name": "Order by Status",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "text",
+                                                                              "name": "Status",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "InlineTextBox",
+                                                                                  "name": "Status"
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": ""
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "role": "none",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "generic",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "link",
+                                                              "name": "Select project Choose icon Demo Project No updates. Click to write update. No Priority Change project target date 0%",
+                                                              "children": [
+                                                                {
+                                                                  "role": "generic",
+                                                                  "name": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "role": "generic",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "generic",
+                                                                              "name": "Select project",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "checkbox",
+                                                                                  "name": "",
+                                                                                  "checked": false
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "button",
+                                                                              "name": "Choose icon",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "none",
+                                                                                  "name": ""
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "generic",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "text",
+                                                                                      "name": "Demo Project",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "InlineTextBox",
+                                                                                          "name": "Demo Project"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "button",
+                                                                              "name": "No updates. Click to write update.",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "none",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "none",
+                                                                                      "name": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "text",
+                                                                                          "name": "No updates",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "InlineTextBox",
+                                                                                              "name": "No updates"
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "button",
+                                                                                  "name": "No Priority",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "image",
+                                                                                      "name": "No Priority"
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "button",
+                                                                                  "name": ""
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "button",
+                                                                          "name": "Change project target date",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "none",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "generic",
+                                                                                      "name": "Change project target date"
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "role": "none",
+                                                                      "name": "",
+                                                                      "children": [
+                                                                        {
+                                                                          "role": "none",
+                                                                          "name": "",
+                                                                          "children": [
+                                                                            {
+                                                                              "role": "none",
+                                                                              "name": "",
+                                                                              "children": [
+                                                                                {
+                                                                                  "role": "none",
+                                                                                  "name": "",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "role": "button",
+                                                                                      "name": "0%",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "role": "image",
+                                                                                          "name": ""
+                                                                                        },
+                                                                                        {
+                                                                                          "role": "none",
+                                                                                          "name": "",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "role": "text",
+                                                                                              "name": "0%",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "role": "InlineTextBox",
+                                                                                                  "name": "0%"
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "role": "none",
+                                                          "name": ""
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "role": "status",
+                                              "name": ""
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "role": "generic",
+                              "name": ""
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "region",
+                  "name": "Notifications alt+T",
+                  "children": [
+                    {
+                      "role": "list",
+                      "name": "",
+                      "children": [
+                        {
+                          "role": "listitem",
+                          "name": "",
+                          "level": 1,
+                          "children": [
+                            {
+                              "role": "none",
+                              "name": "",
+                              "children": [
+                                {
+                                  "role": "none",
+                                  "name": "",
+                                  "children": [
+                                    {
+                                      "role": "none",
+                                      "name": "",
+                                      "children": [
+                                        {
+                                          "role": "status",
+                                          "name": "",
+                                          "children": [
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "image",
+                                                  "name": ""
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "role": "none",
+                                              "name": "",
+                                              "children": [
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "none",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "text",
+                                                          "name": "Download Linear",
+                                                          "children": [
+                                                            {
+                                                              "role": "InlineTextBox",
+                                                              "name": "Download Linear"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "role": "none",
+                                                      "name": "",
+                                                      "children": [
+                                                        {
+                                                          "role": "none",
+                                                          "name": "",
+                                                          "children": [
+                                                            {
+                                                              "role": "button",
+                                                              "name": ""
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "text",
+                                                      "name": "Available for macOS, Windows, iOS, and Android.",
+                                                      "children": [
+                                                        {
+                                                          "role": "InlineTextBox",
+                                                          "name": "Available for macOS, Windows, iOS, and Android."
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "role": "none",
+                                                  "name": "",
+                                                  "children": [
+                                                    {
+                                                      "role": "link",
+                                                      "name": "Download",
+                                                      "children": [
+                                                        {
+                                                          "role": "text",
+                                                          "name": "Download",
+                                                          "children": [
+                                                            {
+                                                              "role": "InlineTextBox",
+                                                              "name": "Download"
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "role": "generic",
+                  "name": "",
+                  "children": [
+                    {
+                      "role": "none",
+                      "name": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "role": "generic",
+              "name": ""
+            },
+            {
+              "role": "generic",
+              "name": ""
+            },
+            {
+              "role": "generic",
+              "name": ""
+            },
+            {
+              "role": "generic",
+              "name": ""
+            },
+            {
+              "role": "generic",
+              "name": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

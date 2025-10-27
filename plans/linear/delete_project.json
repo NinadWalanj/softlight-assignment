@@ -1,0 +1,22 @@
+[
+  {
+    "intent": "Click on the 'Projects' button to navigate to the projects view",
+    "expected_state": "Projects view is open and projects are listed"
+  },
+  {
+    "intent": "Click on the project name 'Demo Project'",
+    "expected_state": "Project overview appears"
+  },
+  {
+    "intent": "Click on the button with aria-label='Project actions'",
+    "expected_state": "'Delete' option is visible"
+  },
+  {
+    "intent": "Click on the 'Delete' option from the context menu",
+    "expected_state": "Deletion confirmation prompt appears"
+  },
+  {
+    "intent": "Confirm deletion by clicking on the 'Delete' button",
+    "expected_state": "Project 'Demo Project' is no longer visible in the projects list"
+  }
+]

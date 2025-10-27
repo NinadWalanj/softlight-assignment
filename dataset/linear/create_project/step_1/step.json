@@ -1,0 +1,15 @@
+{
+  "step_id": 1,
+  "intent": "Click on the 'Projects' button to navigate to the projects page",
+  "expected_state": "Projects page is open and visible",
+  "executor_status": "success",
+  "verified": true,
+  "executor_meta": {
+    "action": "open",
+    "used_text": "Projects",
+    "tag": "div",
+    "label": "Projects",
+    "aria_label": null,
+    "error": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "step_id": 2,
+  "intent": "Click on the project name 'Demo Project'",
+  "expected_state": "Project overview appears",
+  "executor_status": "success",
+  "verified": true,
+  "executor_meta": {
+    "action": "click",
+    "used_text": "Demo Project",
+    "tag": "span",
+    "label": "Demo Project",
+    "aria_label": null,
+    "error": null
+  },
+  "recovery": {
+    "attempted": false,
+    "succeeded": false,
+    "result": null
+  }
+}

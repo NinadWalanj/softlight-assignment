@@ -1,0 +1,20 @@
+{
+  "step_id": 3,
+  "intent": "Click on the button with aria-label='Project actions'",
+  "expected_state": "'Delete' option is visible",
+  "executor_status": "success",
+  "verified": true,
+  "executor_meta": {
+    "action": "click",
+    "used_text": "Project actions",
+    "tag": "button",
+    "label": "Project actions",
+    "aria_label": "Project actions",
+    "error": null
+  },
+  "recovery": {
+    "attempted": false,
+    "succeeded": false,
+    "result": null
+  }
+}

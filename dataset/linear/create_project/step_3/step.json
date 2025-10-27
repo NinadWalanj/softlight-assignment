@@ -1,0 +1,15 @@
+{
+  "step_id": 3,
+  "intent": "Fill in the project name field with 'Demo Project'",
+  "expected_state": "Project name field contains 'Demo Project'",
+  "executor_status": "success",
+  "verified": true,
+  "executor_meta": {
+    "action": "fill",
+    "used_text": "Project name",
+    "tag": "div",
+    "label": null,
+    "aria_label": null,
+    "error": null
+  }
+}

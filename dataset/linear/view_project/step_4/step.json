@@ -1,0 +1,15 @@
+{
+  "step_id": 4,
+  "intent": "Click on the 'Edit project' option",
+  "expected_state": "Project details are displayed",
+  "executor_status": "success",
+  "verified": false,
+  "executor_meta": {
+    "action": "click",
+    "used_text": "Edit project\u2026",
+    "tag": "li",
+    "label": "Edit project",
+    "aria_label": null,
+    "error": null
+  }
+}

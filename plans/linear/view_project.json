@@ -1,0 +1,18 @@
+[
+  {
+    "intent": "Click on the 'Projects' button to navigate to the projects view",
+    "expected_state": "Projects are listed"
+  },
+  {
+    "intent": "Click on the element with aria-label='Select project'",
+    "expected_state": "'Actions' button is displayed"
+  },
+  {
+    "intent": "Click on the button with aria-label='Open command menu'",
+    "expected_state": "Command menu is displayed"
+  },
+  {
+    "intent": "Click on the 'Edit project' option",
+    "expected_state": "Project details are displayed"
+  }
+]

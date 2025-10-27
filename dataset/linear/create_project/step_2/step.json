@@ -1,0 +1,15 @@
+{
+  "step_id": 2,
+  "intent": "Click on the 'Add project' button to initiate project creation",
+  "expected_state": "New project prompt or form is displayed",
+  "executor_status": "success",
+  "verified": false,
+  "executor_meta": {
+    "action": "click",
+    "used_text": "Add project",
+    "tag": "button",
+    "label": "Add project",
+    "aria_label": null,
+    "error": null
+  }
+}

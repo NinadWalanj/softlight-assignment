@@ -1,0 +1,6 @@
+python-dotenv
+playwright
+openai
+faiss-cpu
+tiktoken
+pyyaml

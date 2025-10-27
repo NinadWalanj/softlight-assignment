@@ -1,0 +1,20 @@
+{
+  "step_id": 1,
+  "intent": "Click on the 'Projects' button to navigate to the projects view",
+  "expected_state": "Projects view is open and projects are listed",
+  "executor_status": "success",
+  "verified": true,
+  "executor_meta": {
+    "action": "open",
+    "used_text": "Projects",
+    "tag": "div",
+    "label": "Projects",
+    "aria_label": null,
+    "error": null
+  },
+  "recovery": {
+    "attempted": false,
+    "succeeded": false,
+    "result": null
+  }
+}

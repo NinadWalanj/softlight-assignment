@@ -1,0 +1,18 @@
+[
+  {
+    "intent": "Click on the 'Projects' button to navigate to the projects page",
+    "expected_state": "Projects page is open and visible"
+  },
+  {
+    "intent": "Click on the 'Add project' button to initiate project creation",
+    "expected_state": "New project prompt or form is displayed"
+  },
+  {
+    "intent": "Fill in the project name field with 'Demo Project'",
+    "expected_state": "Project name field contains 'Demo Project'"
+  },
+  {
+    "intent": "Click on the 'Create project' button to finalize creation",
+    "expected_state": "New project named 'Demo Project' appears in the projects list"
+  }
+]

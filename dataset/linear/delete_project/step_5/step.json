@@ -1,0 +1,20 @@
+{
+  "step_id": 5,
+  "intent": "Confirm deletion by clicking on the 'Delete' button",
+  "expected_state": "Project 'Demo Project' is no longer visible in the projects list",
+  "executor_status": "success",
+  "verified": true,
+  "executor_meta": {
+    "action": "click",
+    "used_text": "Delete",
+    "tag": "button",
+    "label": "Delete",
+    "aria_label": null,
+    "error": null
+  },
+  "recovery": {
+    "attempted": false,
+    "succeeded": false,
+    "result": null
+  }
+}
